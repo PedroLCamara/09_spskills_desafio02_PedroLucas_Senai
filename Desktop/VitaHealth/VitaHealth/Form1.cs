@@ -48,6 +48,7 @@ namespace VitaHealth
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //Ao clicar no botao, cria uma requisicao a API
             HttpWebRequest webRequest;
 
             string requestParams = "{'email': '"+InputEmail.Text+"', 'senha': '"+InputSenha.Text+"' }";
@@ -64,15 +65,16 @@ namespace VitaHealth
                 requestStream.Write(byteArray, 0, byteArray.Length);
             }
 
-            // Get the response.
+            
             try
             {
+                //Se a resposta conter um status code 200, é retornado o token e exibido na aplicação
                 using (WebResponse response = webRequest.GetResponse())
                 {
                     using (Stream responseStream = response.GetResponseStream())
                     {
                         StreamReader rdr = new StreamReader(responseStream, Encoding.UTF8);
-                        string Json = rdr.ReadToEnd(); // response from server
+                        string Json = rdr.ReadToEnd();
                         LabelResposta.ForeColor = Color.DarkSeaGreen;
                         LabelResposta.Text = "Resposta: " + Json;
                     }
@@ -81,6 +83,7 @@ namespace VitaHealth
             }
             catch (Exception erro)
             {
+                //Caso a aplicação retorne algum status code de erro (400, 401, 403), retorna o erro na aplicação
                 LabelResposta.ForeColor = Color.Red;
                 LabelResposta.Text = "Resposta: " + erro.Message;
             }
