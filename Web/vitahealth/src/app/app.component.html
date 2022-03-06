@@ -6,9 +6,13 @@
 <main>
   <section class="ContainerLogin ContainerGrid">
     <h2>Login</h2>
+    <!-- Formulario para a requisicao de login -->
     <form #FormLogin (submit)="Logar($event)" class="FormLogin">
+      <!-- Input para a definicao dinamica dos valores de email -->
       <input required #InputEmail [value]="emailValue" [ngStyle]="{'border-color': falhouLogin ? 'red' : 'darkseagreen'}" (change)="AlterarEmail(InputEmail.value)" class="InputLogin" placeholder="Email" type="email"/>
+      <!-- Input para definicao dinamica dos valores de senha -->
       <input required #InputSenha [value]="senhaValue" [ngStyle]="{'border-color': falhouLogin ? 'red' : 'darkseagreen'}"  (change)="AlterarSenha(InputSenha.value)" class="InputLogin" placeholder="Senha" type="password"/>
+      <!-- Botao para o envio do formulario -->
       <button type="submit" class="BtnLogin">Entrar</button>
     </form>
   </section>
