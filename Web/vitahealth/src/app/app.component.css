@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    word-wrap: normal;
+    font-family: 'Questrial', sans-serif;
+}
+
+header{
+    height: 80px;
+    background-color: darkseagreen;
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    top: 0px;
+}
+
+.ContainerGrid{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.ContainerHeader{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.ContainerHeader h1{
+    font-size: 30px;
+    font-weight: 700;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+main{
+    background-color: white;
+    padding-bottom: 20px;
+}
+
+.ContainerLogin{
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ContainerLogin h2{
+    color: darkgreen;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.FormLogin{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.InputLogin{
+    width: 400px;
+    height: 50px;
+    border-radius: 25px;
+    border: 1px solid;
+    font-size: 18px;
+    padding-left: 10px;
+}
+
+.BtnLogin{
+    width: 180px;
+    height: 75px;
+    border-radius: 25px;
+    color: white;
+    border: none;
+    background-color: darkseagreen;
+    font-size: 22px;
+}
+
+footer{
+    height: 160px;
+    background-color: darkseagreen;
+    width: 100%;
+}
+
+.ContainerFooter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.ContainerFooter h1{
+    font-size: 30px;
+    font-weight: 700;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
