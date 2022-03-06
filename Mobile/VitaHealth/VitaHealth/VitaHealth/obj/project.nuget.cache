@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pyVXbh5tDknt+Qww7w6U0iEtxmtWeBrwja65jzb0qj+1ZTvAxqHftcuzIfSagmx/pAPFLR65qmT0aoQSoLgawg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\Word Skills\\Desafios\\SolucoesDeSoftware\\Mobile\\VitaHealth\\VitaHealth\\VitaHealth\\VitaHealth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

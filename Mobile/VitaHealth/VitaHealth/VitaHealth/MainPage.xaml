@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VitaHealth.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="DarkSeaGreen" Padding="24" CornerRadius="0">
+            <Label Text="VitaHealth" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Login" FontSize="Title" TextColor="DarkGreen"/>
+        <Entry x:Name="Email" Placeholder="Email..." Keyboard="Email"/> 
+        <Entry x:Name="Senha" Placeholder="Senha..." IsPassword="True" Keyboard="Default"/>
+        <Button x:Name="BtnLogin" Text="Logar" Clicked="OnLogin"></Button>
+        <Label x:Name="LabelResposta"></Label>
+    </StackLayout>
+
+</ContentPage>

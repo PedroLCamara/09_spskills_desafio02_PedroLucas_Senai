@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Word Skills\Desafios\SolucoesDeSoftware\Mobile\VitaHealth\VitaHealth\VitaHealth\bin\Debug\netstandard2.0\VitaHealth.deps.json
+C:\Users\Pichau\Desktop\Word Skills\Desafios\SolucoesDeSoftware\Mobile\VitaHealth\VitaHealth\VitaHealth\bin\Debug\netstandard2.0\VitaHealth.dll
+C:\Users\Pichau\Desktop\Word Skills\Desafios\SolucoesDeSoftware\Mobile\VitaHealth\VitaHealth\VitaHealth\bin\Debug\netstandard2.0\VitaHealth.pdb
+C:\Users\Pichau\Desktop\Word Skills\Desafios\SolucoesDeSoftware\Mobile\VitaHealth\VitaHealth\VitaHealth\obj\Debug\netstandard2.0\VitaHealth.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Word Skills\Desafios\SolucoesDeSoftware\Mobile\VitaHealth\VitaHealth\VitaHealth\obj\Debug\netstandard2.0\VitaHealth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Word Skills\Desafios\SolucoesDeSoftware\Mobile\VitaHealth\VitaHealth\VitaHealth\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Pichau\Desktop\Word Skills\Desafios\SolucoesDeSoftware\Mobile\VitaHealth\VitaHealth\VitaHealth\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Pichau\Desktop\Word Skills\Desafios\SolucoesDeSoftware\Mobile\VitaHealth\VitaHealth\VitaHealth\obj\Debug\netstandard2.0\VitaHealth.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Word Skills\Desafios\SolucoesDeSoftware\Mobile\VitaHealth\VitaHealth\VitaHealth\obj\Debug\netstandard2.0\VitaHealth.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Word Skills\Desafios\SolucoesDeSoftware\Mobile\VitaHealth\VitaHealth\VitaHealth\obj\Debug\netstandard2.0\VitaHealth.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Word Skills\Desafios\SolucoesDeSoftware\Mobile\VitaHealth\VitaHealth\VitaHealth\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Pichau\Desktop\Word Skills\Desafios\SolucoesDeSoftware\Mobile\VitaHealth\VitaHealth\VitaHealth\obj\Debug\netstandard2.0\VitaHealth.dll
+C:\Users\Pichau\Desktop\Word Skills\Desafios\SolucoesDeSoftware\Mobile\VitaHealth\VitaHealth\VitaHealth\obj\Debug\netstandard2.0\refint\VitaHealth.dll
+C:\Users\Pichau\Desktop\Word Skills\Desafios\SolucoesDeSoftware\Mobile\VitaHealth\VitaHealth\VitaHealth\obj\Debug\netstandard2.0\VitaHealth.pdb
+C:\Users\Pichau\Desktop\Word Skills\Desafios\SolucoesDeSoftware\Mobile\VitaHealth\VitaHealth\VitaHealth\obj\Debug\netstandard2.0\ref\VitaHealth.dll
