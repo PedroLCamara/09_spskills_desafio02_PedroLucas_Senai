@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LFN6E2+fGbhHkPu5yE/jpQa8l9KqduCcXakejYhcJ8fuS8CL7NJnsXH6fDtxAwiD8+oqXJGKS11gv3sPNFSCsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\Word Skills\\Desafios\\SolucoesDeSoftware\\Desktop\\VitaHealth\\VitaHealth\\VitaHealth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
